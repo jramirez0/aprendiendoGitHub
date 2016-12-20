@@ -1,0 +1,1 @@
+Un solo proyecto puede tener cientos de ramas, todas prueban nuevas características o alternativas para el fundamento de una misma cosa.
